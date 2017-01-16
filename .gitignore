@@ -1,0 +1,6 @@
+#exclude packages folder
+packages
+.vs
+[Oo]bj
+[Bb]in
+DTAR*
